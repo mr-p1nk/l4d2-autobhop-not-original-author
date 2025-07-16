@@ -20,5 +20,5 @@
 > [!NOTE]
 > - You may experiment with it in single-player or local games by launching the game with the following Steam parameter to prevent a VAC ban: `-insecure`.
 
-[!CAUTION]
+> [!CAUTION]
 > - Please be aware that you are solely responsible for any consequences resulting from the use or misuse of this project. I cannot and will not be held liable for any issues, damages, or account actions that may arise from improper use. By using this software/code, you acknowledge and accept full responsibility for your actions and any outcomes that may occur.
